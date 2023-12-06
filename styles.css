@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+ul {
+    text-align: center;
+}
+li {
+    list-style-type: none;
+}
+p.content {
+    padding: 5em;
+}
+.navbar{
+    color: white;
+    background-color: rgb(225, 225, 225);
+}
+.section{
+    padding-top:5.0em;
+    height: 100%;
+    width: 100%;
+}
+#welcome{
+    padding-top:0;
+}
